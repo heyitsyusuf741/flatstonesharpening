@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: 
 content: >
-  # I am here for your personal business
+  # Sharpening and Restoration 
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  We keep your shears, surgicals and clippers well honed
+buttonName: Contact Us
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/hero/hero-image.jpg
 videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoURL: https://drive.google.com/file/d/1yhPUSj7U-71bdzzhb8lP5xbsp_denjSZ/view?usp=sharing

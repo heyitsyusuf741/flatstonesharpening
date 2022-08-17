@@ -1,17 +1,17 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: The Benchmark
 content: >
-  ## Why hire me for your next project?
+  ## How do we stack up?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  With as much care and attention as we give to each blade, our prices are still about 20% cheaper.
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: Service Grade
+    percent: 96
+  - title: Price Comparison
+    percent: 78
+  - title: Availability
     percent: 85

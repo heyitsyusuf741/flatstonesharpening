@@ -2,35 +2,35 @@ baseURL = "https://flatstonesharpening.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Flatstone Shaprening"
 # Main Menu
 [[menu.main]]
 name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
-[[menu.main]]
 name = "Service"
 url = "#service"
+weight = 2
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
 weight = 3
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
+name = "History"
+url = "#history"
 weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
 [[menu.main]]
 name = "Skills"
 url = "#skills"
-weight = 6
+weight = 5
 [[menu.main]]
 name = "Blog"
 url = "#blog"
+weight = 6
+[[menu.main]]
+name = "About"
+url = "#about"
 weight = 7
 [[menu.main]]
 name = "Contact"
@@ -39,8 +39,8 @@ weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "About Us"
+url = "#"
 weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
@@ -58,22 +58,22 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Flatstone Sharpening 2022"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "1519 W Warren Blvd Chicago IL"
+email = "hello@flatstonesharpening.com"
+openingHours = "Open 7am to 7pm, Close 4pm Sundays"
+phone = "(312) 800-1394"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyCrg0D1aXhkrJ1Qanr8oRiU-Pl0Ncd47Ow"
+latitude = "41.882134"
+longitude = "-87.6683181"
 pinImage = "images/pin.png"
 
 # Social icons
