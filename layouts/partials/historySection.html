@@ -1,11 +1,11 @@
-{{ with .Site.Data.our_historySection }}
+{{ with .Site.Data.historySection }}
 {{ if .enable }}
-<section class="section our_history" id="our_history">
-    <div class="our_history__background"></div>
+<section class="section history" id="history">
+    <div class="history__background"></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <div class="our_history__heading">
+                <div class="history__heading">
                     <div class="text-light">
                         <span class="top-title pre-line">{{ .topTitle }}</span>
                         {{ .title | markdownify }}
@@ -19,10 +19,10 @@
             </div>
             <div class="col-lg-6">
                 <div class="tab-content ">
-                    <div class="our_history__education tab-pane active" id="{{.tab1Target}}">
+                    <div class="history__education tab-pane active" id="{{.tab1Target}}">
                         {{ $Section := .education }}
                         {{ range $Section }}
-                        <div class="our_history__education_item">
+                        <div class="history__education_item">
                             <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
@@ -30,10 +30,10 @@
 
                     </div>
 
-                    <div class="our_history__education tab-pane" id="{{.tab2Target}}">
+                    <div class="history__education tab-pane" id="{{.tab2Target}}">
                         {{ $Section := .experience }}
                         {{ range $Section }}
-                        <div class="our_history__education_item">
+                        <div class="history__education_item">
                             <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>

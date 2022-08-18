@@ -11,7 +11,7 @@ sections:
   path: data/serviceSection.yml
   label: Services
 - type: document
-  path: data/our_historySection.yml
+  path: data/historySection.yml
   label: History
 - type: document
   path: data/skillSection.yml

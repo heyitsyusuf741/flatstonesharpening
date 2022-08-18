@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Our History
+title: >
+  ## The Journeyman
+
+  Our journey started with our barber's dull clipper blades. Most would simply buy new ones and only wished that clipper blades could be sharpened.
+
+
+  This prompted the self-taught journey that lead to our expertise and specialization in finely machined blades.
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### The Japanese Methodology
+
+      (the convex edge)
+    time: 2008-2015
+  - content: >
+      #### The German Methodology
+
+      (the bevel edge)
+    time: 2008-2015
+
+experience:
+  - content: >
+      #### MadSharp LLC 
+
+      (experience at madsharp)
+    time: 2008-2015
+  - content: >
+      #### Cuts for Cutters 
+
+      (experience at cfc)
+    time: 2008-2018
