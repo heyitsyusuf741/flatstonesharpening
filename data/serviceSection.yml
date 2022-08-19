@@ -10,14 +10,19 @@ service:
       #### Surgical Instrument
 
       Bandage shears need to cut through coarse material. They need to hold an edge for long. We put a bevel edge on the bandange scissors that we sharpen.
-    image: images/service/ui-ux.svg
+    image: images/service/surgical-instrument.svg
   - content: >
       #### Clipper Blade
 
       Clippers that cut hair are not the same as those that have handle furr. Our equipment are callibrated for each type of clipper blade. We mod T-Outliners as well.
-    image: images/service/creative.svg
+    image: images/service/clipper-blade.svg
   - content: >
       #### Hairdressing Shear
 
       Slide cutting is easiest with a blade that's not just sharp enough but also the right shape. We put a convex edge on the hairdressers’ shears that we sharpen. 
-    image: images/service/web.svg
+    image: images/service/hairdressing-shear.svg
+  - content: >
+      #### Knives
+
+      Slide cutting is easiest with a blade that's not just sharp enough but also the right shape. We put a convex edge on the hairdressers’ shears that we sharpen. 
+    image: images/service/knife.svg

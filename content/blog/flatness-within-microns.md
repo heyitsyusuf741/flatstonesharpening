@@ -1,8 +1,8 @@
 ---
-title: "World's Most Famous App Developers and Designers"
+title: Flatness Within Microns
 date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-1.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/flatness-within-microns.jpg
+postImage: images/allpost/hands-on-on-site.jpg
 tags: fun
 categories: blog
 toc: true

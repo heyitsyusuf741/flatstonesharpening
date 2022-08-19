@@ -1,8 +1,8 @@
 ---
-title: "Markdown Formatting Demo"
+title: "Clipper Blade Anatomy"
 date: 2020-09-13T12:49:27+06:00
-featureImage: images/allpost/allPost-6.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/clipper-blade-anatomy.jpg
+postImage: images/allpost/clipper-blade-anatomy.jpg
 tags: website
 categories: blog
 ---

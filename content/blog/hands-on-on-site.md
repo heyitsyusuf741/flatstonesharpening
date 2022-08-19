@@ -1,10 +1,10 @@
 ---
-title: "How to become acreative designer"
+title: Hands-On On-Site
 date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-9.jpg
-postImage: images/single-blog/feature-image.jpg
-tags: fun
-categories: documentation
+featureImage: images/allpost/hands-on-on-site.jpg
+postImage: images/allpost/hands-on-on-site.jpg
+tags: mobile
+categories: blog
 toc: true
 ---
 
