@@ -71,7 +71,7 @@ openingHours = "Mon - Sat 7am - 7pm"
 phone = "(312) 800-1394"
 
 [params.map]
-APIkey = "{{ os.Getenv API_TOKEN }}"
+APIkey = "API_TOKEN"
 latitude = "41.882134"
 longitude = "-87.6683181"
 pinImage = "images/pin.png"
